@@ -10,21 +10,7 @@ const images = [
     "file:///C:/Users/user/Desktop/photography/img8.jpg",
     "file:///C:/Users/user/Desktop/photography/img9.jpg",
     "file:///C:/Users/user/Desktop/photography/img10.jpg",
-    "file:///C:/Users/user/Desktop/photography/img11.jpg",
-    "file:///C:/Users/user/Desktop/photography/img12.jpg",
-    "file:///C:/Users/user/Desktop/photography/img13.jpg",
-    "file:///C:/Users/user/Desktop/photography/img14.jpg",
-    "file:///C:/Users/user/Desktop/photography/img15.jpg",
-    "file:///C:/Users/user/Desktop/photography/img16.jpg",
-    "file:///C:/Users/user/Desktop/photography/img17.jpg",
-    "file:///C:/Users/user/Desktop/photography/img18.jpg",
-    "file:///C:/Users/user/Desktop/photography/img19.jpg",
-    "file:///C:/Users/user/Desktop/photography/img20.jpg",
-    "file:///C:/Users/user/Desktop/photography/img21.jpg",
-    "file:///C:/Users/user/Desktop/photography/img22.jpg",
-    "file:///C:/Users/user/Desktop/photography/img23.jpg",
-    "file:///C:/Users/user/Desktop/photography/img24.jpg",
-    "file:///C:/Users/user/Desktop/photography/img25.jpg"
+    "file:///C:/Users/user/Desktop/photography/img11.jpg"
   ];
   
   // Array with 25 corresponding titles
