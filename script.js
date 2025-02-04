@@ -1,16 +1,16 @@
 // Array with 25 image sources using absolute paths
 const images = [
-    "file:///C:/Users/user/Desktop/photography/img1.jpg",
-    "file:///C:/Users/user/Desktop/photography/img2.jpg",
-    "file:///C:/Users/user/Desktop/photography/img3.jpg",
-    "file:///C:/Users/user/Desktop/photography/img4.jpg",
-    "file:///C:/Users/user/Desktop/photography/img5.jpg",
-    "file:///C:/Users/user/Desktop/photography/img6.jpg",
-    "file:///C:/Users/user/Desktop/photography/img7.jpg",
-    "file:///C:/Users/user/Desktop/photography/img8.jpg",
-    "file:///C:/Users/user/Desktop/photography/img9.jpg",
-    "file:///C:/Users/user/Desktop/photography/img10.jpg",
-    "file:///C:/Users/user/Desktop/photography/img11.jpg"
+    "img1.jpg",
+    "img2.jpg",
+    "img3.jpg",
+    "img4.jpg",
+    "img5.jpg",
+    "img6.jpg",
+    "img7.jpg",
+    "img8.jpg",
+    "img9.jpg",
+    "img10.jpg",
+    "img11.jpg"
   ];
   
   // Array with 25 corresponding titles
