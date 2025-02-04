@@ -25,21 +25,7 @@ const images = [
     "Image 8",
     "Image 9",
     "Image 10",
-    "Image 11",
-    "Image 12",
-    "Image 13",
-    "Image 14",
-    "Image 15",
-    "Image 16",
-    "Image 17",
-    "Image 18",
-    "Image 19",
-    "Image 20",
-    "Image 21",
-    "Image 22",
-    "Image 23",
-    "Image 24",
-    "Image 25"
+    "Image 11"
   ];
   
   let currentIndex = 0;
