@@ -1,5 +1,3 @@
-# 📸 Photo Gallery
-
 # 📸 Responsive Photo Gallery with Slider & Slideshow
 
 Welcome to my **Photo Gallery** project — a sleek, modern, and fully responsive image gallery built with **HTML**, **CSS**, and **JavaScript**. ✨
